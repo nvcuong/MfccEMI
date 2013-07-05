@@ -1,4 +1,4 @@
-Copyright (C) 2013 Nguyen Viet Cuong.
+Copyright (C) 2013 Nguyen Viet Cuong, Vu Dinh, Lam Si Tung Ho
 
 This is the README file for MfccEMI version 1.0.
 
@@ -22,5 +22,5 @@ Mel-frequency Cepstral Coefficients for Eye Movement Identification.
 IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2012).
 
 Input to the program is a file named 'data.emd', which stores eye movement data in EMD1 format. 
-This is a subset of the dataset A in the EMVIC 2012 Competition.
+This is a small subset of the dataset A in the EMVIC 2012 Competition.
 A description of the EMD1 format can be found at: http://www.emvic.org/
