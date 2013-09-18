@@ -1,9 +1,3 @@
-% Copyright (C) 2013 Nguyen Viet Cuong, Vu Dinh, Lam Si Tung Ho
-% This is the README file for MfccEMI version 1.0
-% MfccEMI is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-% MfccEMI is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-% The GNU General Public License can be found at http://www.gnu.org/licenses/.
-
 % This program uses the voicebox toolbox at
 % http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html
 
